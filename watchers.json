@@ -1,0 +1,54 @@
+{
+  "watchers": [
+    {
+      "id": "7e066e50",
+      "guildId": "1446208777576648757",
+      "channelId": "1532440343931256873",
+      "url": "https://flap.sh/board",
+      "scopeHost": "flap.sh",
+      "rendered": true,
+      "preferNewest": true,
+      "pages": [
+        "https://flap.sh/board"
+      ],
+      "known": [],
+      "initialized": true,
+      "crawlerVersion": 14,
+      "baselineUntil": 1788814161183,
+      "createdAt": "2026-09-07T20:39:52.551Z",
+      "knownTokenPaths": [],
+      "launchpad": {
+        "isLaunchpad": true,
+        "name": "flap.sh",
+        "evidence": "visible launch UI or token paths",
+        "observedMints": [],
+        "checkedAt": "2026-09-07T21:10:11.180Z"
+      },
+      "knownTokenMentions": [
+        "https://flap.sh/board|luna|g|g",
+        "https://flap.sh/board|0x156a...8962|g",
+        "https://flap.sh/board|牛来|g|g",
+        "https://flap.sh/board|zdog|g|g",
+        "https://flap.sh/board|0x1ba4...8eeb|g",
+        "https://flap.sh/board|stonks|g|g",
+        "https://flap.sh/board|sue|g|g",
+        "https://flap.sh/board|马到|g|g",
+        "https://flap.sh/board|ftx|g|g",
+        "https://flap.sh/board|wlfib|g|g",
+        "https://flap.sh/board|0x4747...deea|g",
+        "https://flap.sh/board|hirono|g|g",
+        "https://flap.sh/board|旺柴|g|g",
+        "https://flap.sh/board|币有|g|g",
+        "https://flap.sh/board|刀哥|g|g",
+        "https://flap.sh/board|eloncoin|g|g",
+        "https://flap.sh/board|max|g|g",
+        "https://flap.sh/board|b-money|g|g",
+        "https://flap.sh/board|flork|g|g",
+        "https://flap.sh/board|keel|g|g",
+        "https://flap.sh/board|marscoin|g|g",
+        "https://flap.sh/board|memestock|g|g",
+        "https://flap.sh/board|ben|g|g"
+      ]
+    }
+  ]
+}
